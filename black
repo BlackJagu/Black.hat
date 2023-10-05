@@ -1,0 +1,2 @@
+Random rnd = new Random();
+     int sayi = rnd.Next(6);
